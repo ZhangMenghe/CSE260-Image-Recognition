@@ -1,0 +1,73 @@
+Seed Sentence:
+<
+X: 10
+T:B. Variation
+%
+
+Generated:
+
+<
+X: 10
+T:B. Variation
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+d/2^c/2|"D"d2 D2|GF ^GA|"Bm"d2 -dc|"E"B2 -B/2A/2B|"E"BE E2|"E7"EF ^G3/2E/2|"A"AB cd|"F#7"e3/2e/2 fB\
+|"Bm"B2 d2|\
+"Em"BB cB|\
+"A7"AG F/2E/2D|
+"D"D3/2E/2 Dd|"D"A/2G/2^F/2G/2 A/2d/2^c/2d/2|"Am"e/2a/2a/2g/2 a/2e/2a/2=f/2|"E7"e/2d/2c/2B/2 A/2B/2c/2A/2|"E7"B/2E/2G/2B/2 d/2B/2G/2B/2|"Am"A/2B/2=c/2A/2 "G"G/2A/2B/2d/2|
+"Am"ee ed/2B/2|"Am"A/2A/2A/2B/2 "C"=c/2B/2c/2d/2|"Am"e/2a/2a/2g/2 "D"f/2e/2d/2f/2|\
+"D"Ad/2e/2 f/2g/2a/2b/2|"A"a/2g/2f/2e/2 "D"dA/2d/2|"Em"B/2d/2e/2f/2 "Bm"e/2d/2B|"Em"ge G::
+:|
+B/2d/2|"C"gg/2f/2 e/2f/2g/2e/2|"C"ce ce/2g/2|
+"D7"ag fe|">
+
+Seed Sentence: 
+<
+X: 5
+T:The Headlands
+%
+
+Generated: 
+
+<
+X: 5
+T:The Headlands
+% Nottingham Music Database
+P:AAB
+S:EF
+M:6/8
+K:G
+P:A
+|:D|"G"G2G "D"A3|"G"B2d "A7"cde|"D"fgf "A7"edc|"D"d3 "D7/c"AFA|"G"G3 -G3||
+P:C
+P:B
+|:E/2G/2|"G"GB dc/2B/2|"C"c/2B/2A/2c/2 "Gm/b"G/2c/2B/2A/2|"Cm"BB "D7"c3/2d/2|"Gm"fb dB|"D7"AF "G"GB|"C"cc c3/2c/2|"C"de dc|
+"F"c=c/Bc/2 "G7"d3/2e/2|"C"G2 -G2|"G7"G4|"C"e3/2ce/2 ce|"F"a2 c2|"Cm"c'3g|ag de|"Dm"fd d2|"Gm/b"dd "E7"e/2d/2^c/2d/2|\
+"Am"e/2d/2c/2B/2 A/2c/2e/2d/2|cB/2c/2 d/2c/2d/2e/2|"F"f/2d/2c/2d/2 cF|"C7"GG/2G/2 "C7"cG/2A/2|\
+"Cm"G/2A/2c ^G||>
+
+
+Seed Sentence: 
+<
+X: 27
+T:East Hill Brea
+
+Generated: 
+
+<
+X: 27
+T:East Hill Breass
+% Nottingham Music Database
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+(3Bdc|:"G"dedB DGBd|"C"eced efge|"G"dgdB "Em"c2B2|"G"gdBG "D"A2"G"G2:|
+P:B
+d2|"G"dBdg "C"eced|"Am"cAce "D"fABc|"C"edce "G"dBGA|"E7"Bc^G2 "A"A2:|>
